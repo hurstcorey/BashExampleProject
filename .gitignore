@@ -1,0 +1,9 @@
+# Bash script generated files
+monitor.log
+report.txt
+
+# System files
+*.swp
+*.swo
+*~
+.DS_Store
